@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/dkeza/heroku-go-webapp",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": []
+}
